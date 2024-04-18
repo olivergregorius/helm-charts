@@ -2,7 +2,31 @@ apiVersion: v1
 entries:
   tachydromos:
   - apiVersion: v2
-    created: "2024-04-18T21:17:21.566214723Z"
+    created: "2024-04-18T21:47:45.869153997Z"
+    description: Mail Suite on Kubernetes
+    digest: 5b4713d1604e83dd428fd99fac84151973bb05d61cac6a020fcb1cc58b6abc7f
+    home: https://github.com/olivergregorius/tachydromos
+    keywords:
+    - mail
+    - smtp
+    - imap
+    - mta
+    - mda
+    - dovecot
+    - postfix
+    - sogo
+    - rspamd
+    - ldap
+    maintainers:
+    - email: oliver@gregorius.dev
+      name: Oliver Gregorius
+    name: tachydromos
+    type: application
+    urls:
+    - tachydromos/tachydromos-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    created: "2024-04-18T21:47:45.867114053Z"
     description: Mail Suite on Kubernetes
     digest: ab6525cc34137f179deb1962edb0bdd49acaa889d82dc37388063274a2192f57
     home: https://github.com/olivergregorius/tachydromos
@@ -26,7 +50,7 @@ entries:
     - tachydromos/tachydromos-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2024-04-18T21:17:21.564202423Z"
+    created: "2024-04-18T21:47:45.865086052Z"
     description: Mail Suite on Kubernetes
     digest: f725aaa9d4cf99dcd9388e5f77c222a520398f021c9578cb086489abfb750f19
     home: https://github.com/olivergregorius/tachydromos
@@ -49,4 +73,4 @@ entries:
     urls:
     - tachydromos/tachydromos-1.0.0.tgz
     version: 1.0.0
-generated: "2024-04-18T21:17:21.561987485Z"
+generated: "2024-04-18T21:47:45.862867106Z"
