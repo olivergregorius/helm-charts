@@ -2,7 +2,31 @@ apiVersion: v1
 entries:
   tachydromos:
   - apiVersion: v2
-    created: "2024-04-23T20:57:03.515415841Z"
+    created: "2024-04-26T20:52:25.994276348Z"
+    description: Mail Suite on Kubernetes
+    digest: 95757c41676eadcb0f0cdd550a354b8b156f3de5358e343af9dae033d979c4c8
+    home: https://github.com/olivergregorius/tachydromos
+    keywords:
+    - mail
+    - smtp
+    - imap
+    - mta
+    - mda
+    - dovecot
+    - postfix
+    - sogo
+    - rspamd
+    - ldap
+    maintainers:
+    - email: oliver@gregorius.dev
+      name: Oliver Gregorius
+    name: tachydromos
+    type: application
+    urls:
+    - tachydromos/tachydromos-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    created: "2024-04-26T20:52:25.992245492Z"
     description: Mail Suite on Kubernetes
     digest: 91e4331613a7248c661509db724942117b9f60c687704a8b135fb86f518caece
     home: https://github.com/olivergregorius/tachydromos
@@ -26,7 +50,7 @@ entries:
     - tachydromos/tachydromos-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2024-04-23T20:57:03.513202179Z"
+    created: "2024-04-26T20:52:25.989566033Z"
     description: Mail Suite on Kubernetes
     digest: 5b4713d1604e83dd428fd99fac84151973bb05d61cac6a020fcb1cc58b6abc7f
     home: https://github.com/olivergregorius/tachydromos
@@ -50,7 +74,7 @@ entries:
     - tachydromos/tachydromos-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2024-04-23T20:57:03.5104213Z"
+    created: "2024-04-26T20:52:25.987525259Z"
     description: Mail Suite on Kubernetes
     digest: ab6525cc34137f179deb1962edb0bdd49acaa889d82dc37388063274a2192f57
     home: https://github.com/olivergregorius/tachydromos
@@ -74,7 +98,7 @@ entries:
     - tachydromos/tachydromos-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2024-04-23T20:57:03.508383765Z"
+    created: "2024-04-26T20:52:25.985458506Z"
     description: Mail Suite on Kubernetes
     digest: f725aaa9d4cf99dcd9388e5f77c222a520398f021c9578cb086489abfb750f19
     home: https://github.com/olivergregorius/tachydromos
@@ -97,4 +121,4 @@ entries:
     urls:
     - tachydromos/tachydromos-1.0.0.tgz
     version: 1.0.0
-generated: "2024-04-23T20:57:03.505886034Z"
+generated: "2024-04-26T20:52:25.983209234Z"
