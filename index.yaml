@@ -3,7 +3,7 @@ entries:
   annotation-admission-controller:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-17T21:12:43.050586047Z"
+    created: "2026-04-17T21:15:43.351754891Z"
     description: A Helm chart for installing the annotation admission controller
     digest: 14205cb834859cc75275389cd3d109442a5b81ab5f8df3576547f6623e13db65
     name: annotation-admission-controller
@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   tachydromos:
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.089082946Z"
+    created: "2026-04-17T21:15:43.392857141Z"
     description: Mail Suite on Kubernetes
     digest: 36b1eb08f2c72c450e5524751d43992b811505196261dfaa8b799bef0b741393
     home: https://github.com/olivergregorius/tachydromos
@@ -37,9 +37,9 @@ entries:
     - tachydromos/tachydromos-1.1.0-beta6.tgz
     version: 1.1.0-beta6
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.086920138Z"
+    created: "2026-04-17T21:15:43.390616401Z"
     description: Mail Suite on Kubernetes
-    digest: 987b1a879651e0b9bbe294bfca07e2448baab50fcd4c829803e27f5c60514806
+    digest: 24d8658689316fcc2bea47a8ef5ec9eee82b7a9b0df74a692b52de6d5ab557c5
     home: https://github.com/olivergregorius/tachydromos
     keywords:
     - mail
@@ -61,7 +61,7 @@ entries:
     - tachydromos/tachydromos-1.1.0-beta5.tgz
     version: 1.1.0-beta5
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.084785442Z"
+    created: "2026-04-17T21:15:43.387620146Z"
     description: Mail Suite on Kubernetes
     digest: 2327687b430fe4db6add413e91703e959c7a72cda8eb473243db87952a435516
     home: https://github.com/olivergregorius/tachydromos
@@ -85,7 +85,7 @@ entries:
     - tachydromos/tachydromos-1.1.0-beta4.tgz
     version: 1.1.0-beta4
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.081952465Z"
+    created: "2026-04-17T21:15:43.385320439Z"
     description: Mail Suite on Kubernetes
     digest: 175a32e5a53789c17e1e30d473ef725813d09df23afce1d77bbb272517949016
     home: https://github.com/olivergregorius/tachydromos
@@ -109,7 +109,7 @@ entries:
     - tachydromos/tachydromos-1.1.0-beta3.tgz
     version: 1.1.0-beta3
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.079803413Z"
+    created: "2026-04-17T21:15:43.383153178Z"
     description: Mail Suite on Kubernetes
     digest: 67db0792cbe689da918b8ffef682f4954629597d23f082e886d8b3fb88cd6bff
     home: https://github.com/olivergregorius/tachydromos
@@ -133,7 +133,7 @@ entries:
     - tachydromos/tachydromos-1.1.0-beta2.tgz
     version: 1.1.0-beta2
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.077425403Z"
+    created: "2026-04-17T21:15:43.38071848Z"
     description: Mail Suite on Kubernetes
     digest: 0ecaf1475f45c68b140a46b317ddb835d45c67d28bae9322515c908ac7accae9
     home: https://github.com/olivergregorius/tachydromos
@@ -157,7 +157,7 @@ entries:
     - tachydromos/tachydromos-1.1.0-beta.tgz
     version: 1.1.0-beta
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.056956321Z"
+    created: "2026-04-17T21:15:43.359187419Z"
     description: Mail Suite on Kubernetes
     digest: 8920541a30c5b84273719161aa8f14a4ef3365ccadd223c53c8a491e886a922f
     home: https://github.com/olivergregorius/tachydromos
@@ -181,7 +181,7 @@ entries:
     - tachydromos/tachydromos-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.07468277Z"
+    created: "2026-04-17T21:15:43.377904912Z"
     description: Mail Suite on Kubernetes
     digest: 8b9ea7a9358a87f7d0d5c948ee7e2c21543615d5ced760c88e2489645cef93e4
     home: https://github.com/olivergregorius/tachydromos
@@ -205,7 +205,7 @@ entries:
     - tachydromos/tachydromos-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.072628845Z"
+    created: "2026-04-17T21:15:43.375674367Z"
     description: Mail Suite on Kubernetes
     digest: 7ff24dbb01333092dd5890f670b34b952a690314ad6a9e5897dafb2c748af488
     home: https://github.com/olivergregorius/tachydromos
@@ -229,7 +229,7 @@ entries:
     - tachydromos/tachydromos-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.070570461Z"
+    created: "2026-04-17T21:15:43.373527756Z"
     description: Mail Suite on Kubernetes
     digest: aaa6baa975875d8e3ccdf76f2a6bbcc5e26d2d176ceed5820ece06ee77d2e39d
     home: https://github.com/olivergregorius/tachydromos
@@ -253,7 +253,7 @@ entries:
     - tachydromos/tachydromos-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.0685022Z"
+    created: "2026-04-17T21:15:43.370802874Z"
     description: Mail Suite on Kubernetes
     digest: 5aa55718921b5cac5e2c66b50fee9416e810aa7f0983ad1624d5a082e5dfa421
     home: https://github.com/olivergregorius/tachydromos
@@ -277,7 +277,7 @@ entries:
     - tachydromos/tachydromos-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.065885116Z"
+    created: "2026-04-17T21:15:43.36862713Z"
     description: Mail Suite on Kubernetes
     digest: 1691e2c4547ea4df98f54523567b221743ab89679fe3b3d551baed0133f8171e
     home: https://github.com/olivergregorius/tachydromos
@@ -301,7 +301,7 @@ entries:
     - tachydromos/tachydromos-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.063862409Z"
+    created: "2026-04-17T21:15:43.366191892Z"
     description: Mail Suite on Kubernetes
     digest: 95757c41676eadcb0f0cdd550a354b8b156f3de5358e343af9dae033d979c4c8
     home: https://github.com/olivergregorius/tachydromos
@@ -325,7 +325,7 @@ entries:
     - tachydromos/tachydromos-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.061813674Z"
+    created: "2026-04-17T21:15:43.364060804Z"
     description: Mail Suite on Kubernetes
     digest: 91e4331613a7248c661509db724942117b9f60c687704a8b135fb86f518caece
     home: https://github.com/olivergregorius/tachydromos
@@ -349,7 +349,7 @@ entries:
     - tachydromos/tachydromos-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.059748548Z"
+    created: "2026-04-17T21:15:43.361326919Z"
     description: Mail Suite on Kubernetes
     digest: 5b4713d1604e83dd428fd99fac84151973bb05d61cac6a020fcb1cc58b6abc7f
     home: https://github.com/olivergregorius/tachydromos
@@ -373,7 +373,7 @@ entries:
     - tachydromos/tachydromos-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.054783244Z"
+    created: "2026-04-17T21:15:43.356946218Z"
     description: Mail Suite on Kubernetes
     digest: ab6525cc34137f179deb1962edb0bdd49acaa889d82dc37388063274a2192f57
     home: https://github.com/olivergregorius/tachydromos
@@ -397,7 +397,7 @@ entries:
     - tachydromos/tachydromos-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2026-04-17T21:12:43.052723759Z"
+    created: "2026-04-17T21:15:43.354746679Z"
     description: Mail Suite on Kubernetes
     digest: f725aaa9d4cf99dcd9388e5f77c222a520398f021c9578cb086489abfb750f19
     home: https://github.com/olivergregorius/tachydromos
@@ -420,4 +420,4 @@ entries:
     urls:
     - tachydromos/tachydromos-1.0.0.tgz
     version: 1.0.0
-generated: "2026-04-17T21:12:43.049376848Z"
+generated: "2026-04-17T21:15:43.351259517Z"
